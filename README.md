@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Igor Tsarenok, 19 years old.
+- 👀 I’m interested in Game Dev.
+- 🌱 I’m currently learning Unity.
+- 📫 Contact me: tsarenok.igor@gmail.com
